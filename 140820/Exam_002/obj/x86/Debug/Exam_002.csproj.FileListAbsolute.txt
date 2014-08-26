@@ -1,0 +1,4 @@
+C:\Users\Lee\Desktop\SGA\CShopStudy\140820\Exam_002\bin\Debug\Exam_002.exe
+C:\Users\Lee\Desktop\SGA\CShopStudy\140820\Exam_002\bin\Debug\Exam_002.pdb
+C:\Users\Lee\Desktop\SGA\CShopStudy\140820\Exam_002\obj\x86\Debug\Exam_002.exe
+C:\Users\Lee\Desktop\SGA\CShopStudy\140820\Exam_002\obj\x86\Debug\Exam_002.pdb
